@@ -1,1 +1,9 @@
 This is "yes/no" vote counter application. detail is in doc.pdf file.
+There are some errors to solve.
+
+DB:
+mysql exported 'pollsysdb.sql' file is in thepollSYS/dbModel folder.
+Db user and pass can be changed from thepollSYS/common/db.php
+
+
+
